@@ -1,0 +1,37 @@
+
+      hr{
+               height: 0.3px;
+               border-radius:100px;
+               background-color: rgb(233, 233, 233);
+      }
+      span
+      {
+               color: rgb(216, 0, 0);
+               font-size: 16px;
+      }	
+      li img
+      {
+               width: 200px;
+               border-radius: 20px;
+      }
+      .bob
+      {
+               background: #ffffff;
+               padding: 30px;
+               border-radius: 5px;
+               width: 50%;
+               display: inline-block;
+               box-shadow: 0px 2px 6px grey;
+      }
+      b
+      {
+               color: rgb(59, 59, 59);
+      }
+      
+      .bob3
+      {
+               text-align: center;
+               background: #dedddd;
+               border-radius: 20px;
+               padding: 10px;
+      }
